@@ -6,4 +6,5 @@ certificate
 *.jpg
 *.png
 *.pdf
+package-lock.json
 
