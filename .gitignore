@@ -6,5 +6,4 @@ certificate
 *.jpg
 *.png
 *.pdf
-package-lock.json
 routes/login.js
